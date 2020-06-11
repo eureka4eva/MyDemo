@@ -1,3 +1,2 @@
-ignore.txt
-.*Class
-
+testignore.txt
+*.class
